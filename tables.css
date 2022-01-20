@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=PT+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
+
+*{
+    margin: 0;padding: 0;
+}
+
+/* body{
+    background-color: rgb(102, 80, 80);
+} */
+
+.first_half{
+    display: flex;
+}
+.page_head h2{
+    padding-left: 10px;
+    font-family: 'Titillium Web', sans-serif;
+    /* background-color: yellowgreen; */
+}
+
+.redeemed{
+    background-color:white;
+    height: 53vh;
+    width: 70vw;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.redeemed h3{
+    padding-top: 20px;
+    padding-left: 24px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+/* .account{
+    background-color: white;
+    
+    margin-right: 10px;
+}  */
+
+.accountHistory account h6{
+    padding-top: 20px;
+    padding-left: 24px;
+    margin-top: 3px;
+    
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.account{
+    display: flex;
+    width: 30vw;
+    height: 38vh;
+    background-color: white;
+    padding-top: 9px;
+    padding-left: 10px;
+}
+
+.acc_btn button{
+background-color: rgb(54, 182, 139);
+color: black;
+font-weight: bold;
+/* padding: 0px; */
+/* margin-top: -3px; */
+/* padding-bottom: 0px;
+padding-top: 0px; */
+margin-left: 112px;
+border-radius: 10px;
+height: 10vh;
+width: 10vw;
+height: auto;
+    line-height: normal;
+    
+}
+
+.acc_date1{
+    background-color: white;
+    height: 12ch;
+    width: 30vw;
+    padding-top: 26px;
+    padding-left: 37px;
+}
+
+
+.acc_date1 div{
+font-size: 20px;
+font-family: 'Titillium Web', sans-serif;
+}
+
+.acc_date1 td{
+    font-size: 10px;
+    font-weight: lighter;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.lock_icon{
+width: 2vw;
+margin-left: 133px;
+    margin-top: -58px;
+}
+
+.lock_icon2{
+    width: 2vw;
+    margin-left: 178px;
+        margin-top: -58px;
+    }
+
+
+.account{
+    height: 43px;
+}
+
+.acc_btn button:hover{
+    background-color: white;
+    color: black;
+}
+
+
+.row_head{
+    column-width: 10vw;
+}
+
+.table2{
+    background-color:white;
+    height: 50vh;
+    width: 65.5vw;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+}
+
+.payHis h2{
+    /* background-color: yellowgreen; */
+    margin-top: 30px;
+    padding-left: 10px;
+    font-family: 'Titillium Web', sans-serif;
+    
+}
+
+.table2 h3{
+    padding-top: 20px;
+    padding-left: 24px;
+    font-family: 'Titillium Web', sans-serif;
+}
